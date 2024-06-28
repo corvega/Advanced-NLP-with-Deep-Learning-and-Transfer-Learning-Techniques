@@ -18,5 +18,6 @@ This repository is dedicated to exploring advanced Natural Language Processing (
 2. **Environment Setup**
 For a quick setup, use the provided crossplatform_environment.yml to create a Conda environment:
   ```conda env create -f crossplatform_environment.yml
-  Activate the new environment:
-  ```conda activate adv_nlp
+
+Activate the new environment:
+   ```conda activate adv_nlp
